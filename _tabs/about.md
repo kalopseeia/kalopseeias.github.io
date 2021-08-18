@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-> ### **Aim for the impossible**
+>  **Aim for the impossible**
 
 ```
 https://about.me/joemariepines
